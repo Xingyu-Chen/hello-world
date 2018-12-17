@@ -1,2 +1,2 @@
 # hello-world
-Studying
+Studying @ Github
